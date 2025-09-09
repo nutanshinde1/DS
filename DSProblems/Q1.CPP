@@ -6,7 +6,7 @@ int main() {
 
     cout << "Enter number of elements: ";
     cin >> n;
-
+ 
     int arr[n];
 
     cout << "Enter elements of array:\n";
