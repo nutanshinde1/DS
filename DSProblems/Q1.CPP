@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n, key;
-
+ 
     cout << "Enter number of elements: ";
     cin >> n;
  
